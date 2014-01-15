@@ -1,0 +1,318 @@
+TQuiz_ch1_w_unittests
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Info.plist Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Info.plist
+cSymLink /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app
+cProcessPCH /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch.pth Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizAppDelegate.o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/main.o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizViewController.o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests normal i386
+cGenerateDSYMFile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app.dSYM /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests
+cCopyStringsFile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/en.lproj/InfoPlist.strings Quiz_ch1_w_unittests/en.lproj/InfoPlist.strings
+cCpResource Quiz_ch1_w_unittests/Default@2x.png Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default@2x.png
+cCpResource Quiz_ch1_w_unittests/Default.png Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default.png
+cCpResource Quiz_ch1_w_unittests/Default-568h@2x.png Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default-568h@2x.png
+cCompileXIB /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/QuizViewController.xib
+cTouch /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000506618310000000000228FD0
+t1348868145
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005066183D00000000003DCEF0
+t1348868157
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066183E00000000000015F7
+t1348868158
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000506618750000000000000E8D
+t1348868213
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000506618790000000000AB3D60
+t1348868217
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000506619100000000000001B54
+t1348868368
+s6996
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default.png
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default@2x.png
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Info.plist
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/PkgInfo
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/en.lproj/QuizViewController.nib
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Default-568h@2x.png
+c000000005062328600000000000048A2
+t1348612742
+s18594
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Default.png
+c0000000050623286000000000000198C
+t1348612742
+s6540
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Default@2x.png
+c00000000506232860000000000003EEB
+t1348612742
+s16107
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizAppDelegate.m
+c0000000052D695D70000000000000928
+t1389794775
+s2344
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizViewController.m
+c0000000052D696B5000000000000075C
+t1389794997
+s1884
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Prefix.pch
+c0000000052D695D70000000000000157
+t1389794775
+s343
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/InfoPlist.strings
+c0000000052D695D7000000000000002D
+t1389794775
+s45
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/QuizViewController.xib
+c0000000052D6975500000000000072A9
+t1389795157
+s29353
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/main.m
+c0000000052D695D70000000000000169
+t1389794775
+s361
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app.dSYM
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizAppDelegate.o
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizViewController.o
+t2
+s0
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/Quiz_ch1_w_unittests.LinkFileList
+c0000000052D6A64C00000000000001FC
+t1389798988
+s508
+
+N/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch.pth
+t2
+s0
+
+NQuiz_ch1_w_unittests/Quiz_ch1_w_unittests-Info.plist
+c0000000052D695D70000000000000489
+t1389794775
+s1161
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc7d821ccdd86b841^f67a27ccdd86b841^---0#1#0#--18"Check dependencies36"6BACDE6B-BF75-451C-B7F4-B343F2C610CB-
+
+CCompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizAppDelegate.o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411491788.478825
+e411491788.543964
+r1
+xCompileC
+xbuild/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizAppDelegate.o
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizAppDelegate.m41bc7accdd86b841^ffb190ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizAppDelegate.m0000000000000000^4331"CompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizAppDelegate.o Quiz_ch1_w_unittests/QuizAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-generated-files.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-own-target-headers.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-all-target-headers.hmap -iquote /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-project-headers.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/DerivedSources/i386 -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/DerivedSources -F/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator -include /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizAppDelegate.d --serialize-diagnostics /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizAppDelegate.dia -c /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizAppDelegate.m -o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizAppDelegate.o36"1982A874-45EF-4BB1-9342-420C2D5B7526-
+
+CCompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizViewController.o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411491788.478844
+e411491788.535487
+r1
+xCompileC
+xbuild/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizViewController.o
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizViewController.m46b37accdd86b841^b91689ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizViewController.m0000000000000000^4349"CompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizViewController.o Quiz_ch1_w_unittests/QuizViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-generated-files.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-own-target-headers.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-all-target-headers.hmap -iquote /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-project-headers.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/DerivedSources/i386 -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/DerivedSources -F/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator -include /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizViewController.d --serialize-diagnostics /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizViewController.dia -c /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/QuizViewController.m -o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/QuizViewController.o36"3E4EC796-32C3-4536-B896-3B74F5805CDF-
+
+CCompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/main.o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411491788.478845
+e411491788.503495
+r1
+xCompileC
+xbuild/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/main.o
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/main.m30bc7accdd86b841^b8e480ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/main.m0000000000000000^4265"CompileC build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/main.o Quiz_ch1_w_unittests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-generated-files.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-own-target-headers.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-all-target-headers.hmap -iquote /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-project-headers.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/DerivedSources/i386 -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/DerivedSources -F/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator -include /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/main.dia -c /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/main.m -o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/main.o36"412E7A2E-2DDF-45AE-8C9A-88CD0D439F14-
+
+CCompileXIB /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/QuizViewController.xib
+s411491788.695204
+e411491789.586230
+r1
+xCompileXIB
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/QuizViewController.xib
+o2014-01-15 10:16:29.247 Interface Builder Cocoa Touch Tool[41458:d07] CFPreferences: user home directory at file://localhost/Users/medel02/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/QuizViewController.xib3814b2ccdd86b841^c68a96cddd86b841^-240"2014-01-15 10:16:29.247 Interface Builder Cocoa Touch Tool[41458:d07] CFPreferences: user home directory at file://localhost/Users/medel02/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/QuizViewController.xib0000000000000000^1234"CompileXIB Quiz_ch1_w_unittests/en.lproj/QuizViewController.xib    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/en.lproj/QuizViewController.nib /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/QuizViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"6EF7C793-9B2F-4DEA-8E33-679293188DF7-
+
+CCopyStringsFile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/en.lproj/InfoPlist.strings Quiz_ch1_w_unittests/en.lproj/InfoPlist.strings
+s411491788.692917
+e411491788.695093
+r1
+xCopyStringsFile
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/en.lproj/InfoPlist.strings
+xQuiz_ch1_w_unittests/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy Quiz_ch1_w_unittests/en.lproj/InfoPlist.strings4985b1ccdd86b841^bbf2b1ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/en.lproj/InfoPlist.strings0000000000000000^880"CopyStringsFile Frank/frankified_build/./Quiz_ch1_w_unittests.app/en.lproj/InfoPlist.strings Quiz_ch1_w_unittests/en.lproj/InfoPlist.strings    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/en.lproj -- Quiz_ch1_w_unittests/en.lproj/InfoPlist.strings36"775A8A51-7AD8-4A8B-B0D7-168FEF3CEF9B-
+
+CCpResource Quiz_ch1_w_unittests/Default-568h@2x.png Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default-568h@2x.png
+s411491788.692950
+e411491788.695580
+r1
+xCpResource
+xQuiz_ch1_w_unittests/Default-568h@2x.png
+xFrank/frankified_build/./Quiz_ch1_w_unittests.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default-568h@2x.png9088b1ccdd86b841^2a1bb2ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default-568h@2x.png000000000080d041^922"CpResource "Quiz_ch1_w_unittests/Default-568h@2x.png" "Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default-568h@2x.png"    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Default-568h@2x.png" /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app36"3C9446F3-F2FF-44A8-A0C2-77819DCA8B83-
+
+CCpResource Quiz_ch1_w_unittests/Default.png Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default.png
+s411491788.692921
+e411491788.695486
+r1
+xCpResource
+xQuiz_ch1_w_unittests/Default.png
+xFrank/frankified_build/./Quiz_ch1_w_unittests.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default.pngdf89b1ccdd86b841^8c10b2ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default.png000000000080d041^892"CpResource Quiz_ch1_w_unittests/Default.png Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default.png    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Default.png /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app36"AF786AFD-7663-4C91-8C7F-2EA544BE038E-
+
+CCpResource Quiz_ch1_w_unittests/Default@2x.png Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default@2x.png
+s411491788.692922
+e411491788.695624
+r1
+xCpResource
+xQuiz_ch1_w_unittests/Default@2x.png
+xFrank/frankified_build/./Quiz_ch1_w_unittests.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default@2x.png7b85b1ccdd86b841^651db2ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default@2x.png000000000080d041^907"CpResource "Quiz_ch1_w_unittests/Default@2x.png" "Frank/frankified_build/./Quiz_ch1_w_unittests.app/Default@2x.png"    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Default@2x.png" /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app36"716D78FE-CA53-42F9-8D08-6516AF4169B6-
+
+CGenerateDSYMFile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app.dSYM /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests
+s411491788.610282
+e411491788.692694
+r1
+xGenerateDSYMFile
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app.dSYM
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Generating /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app.dSYM4c4f9cccdd86b841^0d55b1ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app.dSYM000000000080d041^969"GenerateDSYMFile build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app.dSYM Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests -o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app.dSYM36"327082B2-EF6E-4551-8920-56EA35473B27-
+
+CLd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests normal i386
+s411491788.544073
+e411491788.610163
+r1
+xLd
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Link /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests88698bccdd86b841^a4339cccdd86b841^---0#0#0#--1720"Ld Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests normal i386    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator -L/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank -F/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator -filelist /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Objects-normal/i386/Quiz_ch1_w_unittests.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -framework CFNetwork -framework Security -lShelley -lCocoaAsyncSocket -lCocoaLumberjack -lCocoaHTTPServer -lFrank -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Quiz_ch1_w_unittests36"5A0FDFB2-482C-4E6C-88E3-1100DB372C2F-
+
+CProcessInfoPlistFile /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Info.plist Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Info.plist
+s411491788.156433
+e411491788.159701
+r1
+xProcessInfoPlistFile
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Info.plist
+xQuiz_ch1_w_unittests/Quiz_ch1_w_unittests-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Process Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Info.plist9c5028ccdd86b841^e6e928ccdd86b841^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Info.plist0000000000000000^1004"ProcessInfoPlistFile Frank/frankified_build/./Quiz_ch1_w_unittests.app/Info.plist Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Info.plist    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    builtin-infoPlistUtility Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Info.plist -genpkginfo /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app/Info.plist36"BB8519BF-E636-4B3C-8ACB-3A61604AB6F5-
+
+CProcessPCH /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch.pth Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411491788.164910
+e411491788.478691
+r1
+xProcessPCH
+x/var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch.pth
+xQuiz_ch1_w_unittests/Quiz_ch1_w_unittests-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Precompile Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Prefix.pch69522accdd86b841^4c8b7accdd86b841^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Prefix.pch0000000000000000^4292"ProcessPCH /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch.pth Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-generated-files.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-own-target-headers.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-all-target-headers.hmap -iquote /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/Quiz_ch1_w_unittests-project-headers.hmap -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/DerivedSources/i386 -I/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Quiz_ch1_w_unittests.build/Debug-iphonesimulator/Quiz_ch1_w_unittests.build/DerivedSources -F/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch.dia -c /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests/Quiz_ch1_w_unittests-Prefix.pch -o /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/xc/cnb_k0394zj_vwj9pkx3lqg5njknd_/C/com.apple.Xcode.1796822442/SharedPrecompiledHeaders/Quiz_ch1_w_unittests-Prefix-bdfdujvkimsjenbtodruvmsojyev/Quiz_ch1_w_unittests-Prefix.pch.d36"26818458-1339-422E-AEAB-6B3BF4C88CBD-
+
+CSymLink /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app
+s411491788.156433
+e411491788.164637
+r1
+xSymLink
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Process /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app134528ccdd86b841^85252accdd86b841^---0#0#0#--821"SymLink build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app Frank/frankified_build/./Quiz_ch1_w_unittests.app    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    /bin/ln -sf /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/build/Debug-iphonesimulator/Quiz_ch1_w_unittests.app36"8E4A8A39-E557-4ED7-B695-CF996D1367F1-
+
+CTouch /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app
+s411491789.588010
+e411491789.592574
+r1
+xTouch
+x/Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Touch /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app279f96cddd86b841^20b397cddd86b841^---0#0#0#--667"Touch Frank/frankified_build/./Quiz_ch1_w_unittests.app    cd /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484/bin:/Users/medel02/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/medel02/.rvm/rubies/ruby-1.9.3-p484/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/medel02/.rvm/bin"    /usr/bin/touch -c /Users/medel02/Documents/XCode/Quiz_ch1_w_unittests/Frank/frankified_build/./Quiz_ch1_w_unittests.app36"CE62BD58-5FFF-4EF3-9520-4BDA14F095CF-
+
